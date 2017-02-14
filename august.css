@@ -1,0 +1,42 @@
+html {
+    background-image: url(california.jpg);
+}
+
+div.c{
+  background-color:rgba(135,83,70,.8);
+    width: 100%;
+}
+
+div.a{
+    position: relative;
+    float: left;
+}
+
+div.d{
+    padding-left: 15%;
+}
+
+h1{
+      background-color: rgba(135,83,70,.75);
+    width:15%;
+    height: 13%;
+    margin:auto; 
+    text-align: center;
+}
+a:link{
+    font-family: 'Amatica SC', cursive;
+    color:white ;
+   text-align: center;
+    font-size:50px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+a:visited{
+    color:white ;
+    text-decoration: none;
+     
+}
+a:hover{
+    color: #d64b24;
+}

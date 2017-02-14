@@ -1,0 +1,75 @@
+
+html {
+    background-image: url(bike.jpg);
+  background-size: cover; 
+        
+}
+
+h1{
+    background-color: rgba(255,255,255,.5);
+    font-family: 'Amatica SC', cursive;
+    width:90%;
+    font-size: 70px;
+    
+    margin:auto; 
+    text-decoration: underline;
+    text-align: center;
+    color:#bd4949;
+}
+
+ul{
+    list-style-type: none;
+    
+}
+
+.box1 {
+    background-color: rgba(40,64,64,.5);
+    width:22%;
+    height:13%;
+    text-align: center;
+    margin:auto;
+    
+}
+.box2{
+    background-color: rgba(40,64,64,.5);
+    width:22%;
+    height:13%;
+    text-align: center;
+    margin: auto;
+   
+   
+}
+.box3{
+   background-color: rgba(40,64,64,.5);
+    width:22%;
+    height:13%;
+    text-align: center;
+    margin:auto;
+    
+}
+
+a:link{
+    font-family: 'Patrick Hand SC', cursive;
+    color: #bd4949 ;
+    font-size: 30px;
+    letter-spacing: .25em;  
+    text-decoration: none;
+   
+    
+}
+a:visited{
+    color:#d8b560;
+}
+a:hover{
+    color:#fcffe3;
+}
+
+.pic{
+    text-indent: 30px;
+ 
+    
+    
+}
+img{
+    padding-left:5%;
+}
